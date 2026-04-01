@@ -1,0 +1,92 @@
+﻿Running Motion Capture Protocol
+1. Motion Name
+Running
+2. Objective
+This protocol standardizes the running performance of subjects during data collection to ensure biomechanical consistency and reproducibility. The objective is to capture kinematic 
+characteristics of moderate-intensity running, with a specific focus on stride length, arm swing amplitude, and hip extension.
+3. Applicable Subjects
+TSubjects with adequate physical fitness who can safely perform moderate-intensity running tasks. Individuals with acute injuries, cardiopulmonary limitations, 
+or recent history of excessive fatigue are excluded.
+4. Environment and Equipment Requirements
+(1)The capture area must be spacious and flat, providing sufficient room for acceleration and deceleration.
+(2)For treadmill-based capture, speed must be calibrated beforehand, and a safety tether is required to prevent falls.
+(3)Sensors should be secured tightly against the skin or compression wear using medical tape or straps to prevent data artifacts caused by high-frequency vibration.
+5.Motion Definition
+The subject performs running in a coordinated, continuous gait. Compared to jogging, running requires increased stride length and more active arm swings. 
+During the propulsion phase, full hip extension must be maintained. The trunk should remain neutral or slightly tilted forward; backward leaning is strictly prohibited.
+6.Motion Execution Requirements
+(1)Start and Transition
+   ●Starting from a standing position, the subject gradually accelerates to the target speed range.
+   ●Data recording begins once the cadence and gait pattern have stabilized.
+(2)Key Technical Points
+   ●Stride & Cadence: Increase stride length to maintain an extended gait, with cadence strictly controlled between 165–180 steps/min.
+   ●Arm Swing: Arm swing amplitude should be larger than that in jogging, moving primarily in the sagittal plane to drive the rhythmic movement.
+   ●Hip Extension: Emphasize full hip extension during the push-off phase to provide effective propulsion.
+   ●Trunk Posture: Avoid backward leaning; maintain core stability with a slight, natural forward lean.
+   ●Foot Strike: A midfoot or forefoot strike is recommended to ensure a smooth transition and minimize impact forces.
+(3)Quantitative Control Indicators
+   ●Speed: 10–13 km/h
+   ●Cadence: 165–180 steps/min
+   ●Forward trunk lean: 5°–10° relative to the vertical axis
+   ●Posture: Maintain hip extension; no backward leaning
+   ●Arm Swing: Significantly larger than jogging
+7.Capture Procedure
+(1)Preparation Phase
+   ●Explain the motion requirements and precautions to the participant.
+   ●Check the operating status of all equipment and the placement of wearable sensors.
+   ●Ensure that the participant completes the necessary warm-up.
+(2)Preliminary Phase
+   ●The participant first performs a short trial jog at a comfortable rhythm.
+   ●Adjust the motion until the target speed and cadence range are reached.
+   ●Begin formal capture only after the movement pattern is stable.
+(3)Main Experiment Phase
+   ●The researcher gives the start instruction.
+   ●The participant performs continuous running in accordance with this protocol.
+   ●During the capture, the researcher monitors whether the motion conforms to the required standard.
+(4)Termination Phase
+   ●At the end of the scheduled capture duration, the researcher gives the stop instruction.
+   ●The participant gradually slows down and comes to a stop.
+   ●The researcher checks data quality and records any abnormal events or deviations.
+8.Criteria for a Valid Trial
+A running trial may be considered valid if all of the following conditions are met:
+   ●The running posture is natural and relaxed, with no obvious stiffness or tension.   
+   ●Speed is maintained within the range of 10–13 km/h.   
+   ●Cadence is maintained within the range of 165–180 steps/min.   
+   ●Stride length is clearly greater than that of jogging and remains natural.   
+   ●Arm swing is coordinated, symmetrical, and greater than that of jogging.   
+   ●Hip extension is maintained, and no obvious backward leaning is observed.
+   ●Foot contact is smooth, with no obvious stomping or heavy impact on the ground.   
+   ●The movement remains continuous throughout the trial, with no clear pauses, distortions, or extraneous actions.
+9.Common Incorrect Patterns
+The following conditions shall be regarded as motion deviations and may require re-capture:
+   ●Backward leaning of the trunk during running.
+   ●Insufficient hip extension, resulting in limited propulsion or shortened running posture.
+   ●Arm swing that is excessively small, excessively large, or asymmetrical.
+   ●Stride length that is too short to reflect natural running, or excessively large to the point of overstriding.
+   ●Heavy foot strike or obvious stomping.
+   ●Sudden acceleration, deceleration, stopping, or turning during capture.
+   ●Excessive side-to-side body sway or uncoordinated running posture.
+   ●A lowered head or frequent left-right head movement that affects body stability.  
+10.Precautions
+(1)Participant Precautions
+   ●A basic warm-up shall be completed before capture, with particular attention to the ankles, knees, and hips.
+   ●Natural breathing shall be maintained throughout the motion; breath-holding should be avoided.
+   ●Participants shall not adopt an obviously artificial running style merely to match the protocol.
+   ●If any discomfort occurs, the participant shall immediately notify the researcher and stop the experiment.
+(2)Researcher Precautions
+   ●The motion standard shall be explained uniformly before capture, and demonstration may be provided if necessary.
+   ●If a treadmill is used, sufficient adaptation time shall be provided.
+   ●All participants should complete the task under the same or similar conditions.
+   ●Any abnormal event during capture, such as sensor looseness, unstable cadence, or motion deviation, shall be recorded.
+11.Termination Criteria
+The capture shall be terminated immediately if any of the following occurs:
+   ●The participant reports dizziness, chest discomfort, shortness of breath, pain, or other obvious physical discomfort.
+   ●The participant shows clear gait instability or risk of falling.
+   ●Equipment failure or sensor detachment prevents valid data collection.
+   ●The researcher determines that continuing the trial may pose a safety risk.
+12.Data Quality Control Recommendations
+   ●One trial capture is recommended before formal recording to verify motion compliance and equipment stability.
+   ●Speed, cadence, capture duration, and abnormal events shall be documented for each trial.
+   ●Data segments that clearly deviate from protocol requirements should be labeled and, if necessary, excluded or re-collected.
+13. Figure Description
+Figure file: ./Running.png

@@ -1,0 +1,103 @@
+﻿Sitting Motion Capture Protocol
+1. Motion Name
+Sitting
+2. Objective
+This protocol is intended to standardize the sitting posture of participants during motion capture in order to ensure consistency, repeatability, and reliability of the collected data.
+This motion is primarily used to record postural characteristics and related physiological signals under a static seated condition.
+3. Applicable Subjects
+This protocol is applicable to participants who are able to independently assume and maintain a seated posture safely.
+Individuals with acute musculoskeletal injuries, severe pain, inability to maintain seated balance, cardiovascular discomfort, or any other condition unsuitable for remaining seated during data collection should not participate in this motion capture task.
+4. Environment and Equipment Requirements
+(1) The seat used for capture shall be stable, level, and free from wheels or unintended movement unless otherwise specified by the experimental design.
+(2) The seat height shall allow both feet to be fully supported by the ground in a natural seated posture.
+(3) The capture area shall be quiet, safe, unobstructed, and suitable for static recording.
+(4) If wearable sensors or markers are used, they shall be positioned correctly, securely attached, and free from noticeable looseness or displacement.
+(5) Participants shall wear appropriate clothing that does not restrict sitting posture or obscure markers.
+5. Motion Definition
+The participant maintains a quiet seated posture on the designated seat throughout the capture period. Both feet shall be fully supported by the ground, and both hands shall be naturally positioned on the thighs. 
+The trunk, head, and limbs shall remain stable, and all spontaneous or induced motion shall be rigorously minimized throughout the entire procedure. Obvious posture adjustment, fidgeting, leg movement, hand movement, head turning, or other unnecessary actions should be avoided.
+6. Motion Execution Requirements
+(1) Starting Posture
+   ●The participant sits at the designated position on the seat in a natural upright posture.
+   ●The head remains stable, with the gaze directed forward.
+   ●The shoulders remain relaxed, and the trunk is kept in a neutral upright position.
+   ●Both hands are naturally positioned on the thighs.
+   ●Both feet are fully supported by the ground.
+   ●The lower limbs are positioned naturally and symmetrically as far as possible.
+(2) Motion Procedure
+   ●Upon instruction, the participant assumes the required seated posture and remains still.
+   ●Throughout the capture period, both feet shall remain fully supported by the ground.
+   ●Both hands shall remain naturally positioned on the thighs.
+   ●The head, trunk, upper limbs, and lower limbs shall remain stable.
+   ●All spontaneous or induced motion shall be rigorously curtailed throughout the entire procedure.
+   ●The participant shall avoid fidgeting, shifting body weight, tapping the feet, lifting the heels, moving the hands, turning the head, or making unnecessary postural adjustments.
+   ●Natural breathing shall be maintained without exaggerated thoracic or shoulder movement.
+(3) Quantitative Control Indicators
+   ●Body posture: stable seated posture
+   ●Foot support: both feet fully supported by the ground
+   ●Hand position: both hands naturally placed on the thighs
+   ●Trunk posture: neutral upright position
+   ●Movement requirement: no obvious spontaneous or induced motion
+   ●Overall state: quiet, stable, and continuous
+7. Capture Procedure
+(1) Preparation Phase
+   ●Explain the posture requirements and precautions to the participant.
+   ●Check the operating status of all equipment and the placement of wearable sensors or markers.
+   ●Inspect the seat and surrounding environment for safety and stability.
+   ●Adjust the seat and participant position so that both feet can be fully supported by the ground.
+(2) Preliminary Phase
+   ●The participant first assumes the seated posture for a short trial period.
+   ●Adjust the posture until the required foot support, hand position, and stability are achieved.
+   ●Begin formal capture only after the posture is stable.
+(3) Main Experiment Phase
+   ●The researcher gives the start instruction.
+   ●The participant maintains the seated posture in accordance with this protocol.
+   ●During the capture, the researcher monitors whether the posture remains stable and whether any unintended movement occurs.
+   ●If necessary, the researcher provides a reminder to maintain stillness without inducing unnecessary posture changes.
+(4) Termination Phase
+   ●At the end of the scheduled capture, the researcher gives the stop instruction.
+   ●The participant may then relax or leave the seated posture under instruction.
+   ●The researcher checks data quality and records any abnormal events or deviations.
+8. Criteria for a Valid Trial
+A sitting trial may be considered valid if all of the following conditions are met:
+   ●The participant maintains a stable seated posture throughout the trial.
+   ●Both feet remain fully supported by the ground.
+   ●Both hands remain naturally positioned on the thighs.
+   ●The head, trunk, and limbs remain generally still, with no obvious spontaneous or induced motion.
+   ●No obvious posture adjustment, fidgeting, or unnecessary movement occurs during the capture period.
+   ●The posture remains natural, quiet, and continuous throughout the recording.
+9. Common Incorrect Patterns
+The following conditions shall be regarded as posture deviations and may require re-capture:
+   ●One or both feet are not fully supported by the ground.
+   ●One or both hands are not naturally positioned on the thighs.
+   ●Repeated fidgeting, foot tapping, heel lifting, or lower-limb movement occurs.
+   ●The participant shifts body weight excessively or repeatedly adjusts the sitting posture.
+   ●The head turns frequently, nods excessively, or shows obvious instability.
+   ●The trunk leans excessively forward, backward, or to one side.
+   ●The hands leave the thighs, grasp the seat, or perform unnecessary movements.
+   ●Any induced movement caused by external prompting or environmental disturbance affects posture stability.
+10. Precautions
+(1) Participant Precautions
+   ●The participant shall be informed in advance that this is a static sitting task requiring minimal movement.
+   ●Natural breathing shall be maintained throughout the recording; exaggerated body movement should be avoided.
+   ●The participant shall avoid speaking, turning the head, moving the hands, or shifting posture unless specifically instructed.
+   ●If any discomfort occurs, the participant shall immediately notify the researcher.
+(2) Researcher Precautions
+   ●The posture standard shall be explained uniformly before capture, and demonstration may be provided if necessary.
+   ●The seat height and participant position shall be adjusted before recording to ensure full foot support.
+   ●Researchers shall minimize unnecessary verbal or physical prompts during recording in order to avoid inducing motion.
+   ●All participants should complete the task under the same or similar environmental conditions.
+   ●Any abnormal event during capture, such as sensor looseness, posture instability, or environmental disturbance, shall be recorded.
+11. Termination Criteria
+The capture shall be terminated immediately if any of the following occurs:
+   ●The participant reports pain, dizziness, numbness, discomfort, or other obvious physical symptoms.
+   ●The participant is unable to maintain the required seated posture safely.
+   ●Equipment failure or sensor detachment prevents valid data collection.
+   ●The seat or environment becomes unsafe for continued recording.
+   ●The researcher determines that continuing the trial may pose a safety risk or substantially affect data validity.
+12. Data Quality Control Recommendations
+   ●One short trial capture is recommended before formal recording to verify posture compliance, environmental suitability, and equipment stability.
+   ●Capture duration, seat height, foot support condition, hand position, and abnormal events shall be documented for each trial.
+   ●Data segments that clearly deviate from protocol requirements should be labeled and, if necessary, excluded or re-collected.
+13. Figure Description
+Figure file: ./Sitting.png

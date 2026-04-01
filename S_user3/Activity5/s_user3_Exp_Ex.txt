@@ -1,0 +1,102 @@
+﻿Clapping Motion Capture Protocol
+1. Motion Name
+Clapping
+2. Objective
+This protocol is intended to standardize the clapping behavior of participants during motion capture in order to ensure consistency, repeatability, and reliability of the collected data.
+This motion is primarily used to record upper-limb kinematic characteristics and related physiological signals during rhythmic bilateral hand movement.
+3. Applicable Subjects
+This protocol is applicable to participants who have basic independent standing ability and are able to safely perform repeated bilateral upper-limb movements.
+Individuals with acute upper-limb musculoskeletal injuries, severe shoulder or elbow pain, significant fatigue, balance impairment, cardiovascular discomfort, or any other condition unsuitable for physical activity should not participate in this motion capture task.
+4. Environment and Equipment Requirements
+(1) The capture area shall be flat, stable, non-slip, unobstructed, and provide sufficient safe space for upper-limb movement.
+(2) If wearable sensors or markers are used, they shall be positioned correctly, securely attached, and free from noticeable looseness or displacement.
+(3) Participants shall wear appropriate clothing that does not restrict upper-limb motion or obscure markers.
+(4) The participant shall stand in a clearly defined capture area with enough frontal and lateral clearance to complete the motion naturally.
+(5) If the participant has mild balance concerns, protective supervision shall be provided during the task.
+5. Motion Definition
+The participant performs clapping while maintaining an upright standing posture. During the motion, both hands are rapidly brought into contact and then separated at chest height in a rhythmic and coordinated manner. 
+The elbows remain slightly bent, and the inter-hand distance during separation shall generally be maintained within the range of 10–0 cm. 
+The movement shall remain natural, continuous, and symmetrical as far as possible. Obvious trunk compensation, exaggerated arm swinging, sudden stopping, or distorted movement patterns should be avoided.
+6. Motion Execution Requirements
+(1) Starting Posture
+   ●The participant stands at the designated starting position in a natural upright posture.
+   ●The head remains stable, with the gaze directed forward.
+   ●The shoulders remain relaxed, and the trunk is kept in a neutral position.
+   ●Both upper arms are naturally positioned, with the elbows slightly bent.
+   ●Both hands are positioned in front of the chest in preparation for clapping.
+   ●The feet are placed naturally, approximately hip-width apart.
+(2) Motion Procedure
+   ●Upon instruction, the participant begins clapping at chest height.
+   ●Both hands shall move toward each other rapidly and make contact in front of the chest.
+   ●After contact, both hands shall separate in a controlled manner while maintaining the motion rhythm.
+   ●The elbows shall remain slightly bent throughout the movement.
+   ●The inter-hand distance during separation shall generally be maintained within the range of 10–0 cm.
+   ●The hands shall remain approximately at chest height during repeated clapping.
+   ●The trunk shall remain stable, and excessive forward leaning, backward leaning, rotation, or side-to-side sway should be avoided.
+   ●The movement shall remain natural, rhythmic, and continuous throughout the capture period.
+(3) Quantitative Control Indicators
+   ●Body posture: upright standing
+   ●Hand movement: rapid contact and separation
+   ●Hand position: chest height
+   ●Elbow angle: slightly bent
+   ●Inter-hand distance during separation: 10–0 cm
+   ●Movement quality: natural, rhythmic, stable, and continuous
+7. Capture Procedure
+(1) Preparation Phase
+   ●Explain the motion requirements and precautions to the participant.
+   ●Check the operating status of all equipment and the placement of wearable sensors or markers.
+   ●Inspect the capture area and surrounding environment for safety.
+   ●Ensure that the participant completes the necessary warm-up, especially for the shoulders, elbows, wrists, and hands.
+(2) Preliminary Phase
+   ●The participant first performs a short trial of clapping at a comfortable rhythm.
+   ●Adjust the motion until the required hand position, rhythm, and movement pattern are reached.
+   ●Begin formal capture only after the movement pattern is stable.
+(3) Main Experiment Phase
+   ●The researcher gives the start instruction.
+   ●The participant performs clapping in accordance with this protocol.
+   ●During the capture, the researcher monitors whether the motion conforms to the required standard.
+   ●If necessary, the researcher provides immediate reminder or safety supervision.
+(4) Termination Phase
+   ●At the end of the scheduled capture, the researcher gives the stop instruction.
+   ●The participant returns to a stable natural standing posture.
+   ●The researcher checks data quality and records any abnormal events or deviations.
+8. Criteria for a Valid Trial
+A clapping trial may be considered valid if all of the following conditions are met:
+   ●The participant maintains an upright and stable standing posture throughout the trial.
+   ●Both hands perform repeated contact and separation at approximately chest height.
+   ●The elbows remain slightly bent throughout the movement.
+   ●The inter-hand distance during separation is generally maintained within 10–0 cm.
+   ●The movement is rhythmic, continuous, and coordinated, without obvious interruption or distortion.
+   ●No obvious trunk compensation, loss of balance, or unsafe event occurs during the task.
+9. Common Incorrect Patterns
+The following conditions shall be regarded as motion deviations and may require re-capture:
+   ●Hand contact occurs clearly above or below the required chest-height region.
+   ●The inter-hand distance during separation is clearly smaller than 10 cm or greater than 40 cm for a sustained period.
+   ●The elbows are excessively extended or excessively flexed, deviating from the slightly bent position.
+   ●The participant uses excessive trunk movement, shoulder elevation, or exaggerated arm swinging.
+   ●The movement rhythm is unstable, with obvious hesitation, pausing, or abrupt changes in speed.
+   ●The clapping motion is asymmetrical or poorly coordinated.
+   ●Any loss of balance or unsafe behavior occurs during the task.
+10. Precautions
+(1) Participant Precautions
+   ●A basic warm-up shall be completed before capture, with particular attention to the shoulders, elbows, wrists, and fingers.
+   ●Natural breathing shall be maintained throughout the motion; breath-holding should be avoided.
+   ●Participants shall not adopt an obviously artificial or exaggerated clapping style merely to match the protocol.
+   ●If any discomfort occurs, especially in the shoulder, elbow, or wrist, the participant shall immediately notify the researcher and stop the experiment.
+(2) Researcher Precautions
+   ●The motion standard shall be explained uniformly before capture, and demonstration may be provided if necessary.
+   ●The safety of the capture area and the stability of all equipment shall be confirmed before each trial.
+   ●All participants should complete the task under the same or similar conditions.
+   ●Any abnormal event during capture, such as sensor looseness, unstable rhythm, or motion deviation, shall be recorded.
+11. Termination Criteria
+The capture shall be terminated immediately if any of the following occurs:
+   ●The participant reports pain, dizziness, fatigue, or other obvious physical discomfort.
+   ●The participant shows clear balance instability or inability to continue the task safely.
+   ●Equipment failure or sensor detachment prevents valid data collection.
+   ●The researcher determines that continuing the trial may pose a safety risk.
+12. Data Quality Control Recommendations
+   ●One trial capture is recommended before formal recording to verify motion compliance, environmental safety, and equipment stability.
+   ●Capture duration, hand position, movement rhythm, inter-hand distance, and abnormal events shall be documented for each trial.
+   ●Data segments that clearly deviate from protocol requirements should be labeled and, if necessary, excluded or re-collected.
+13. Figure Description   
+Figure file: ./Clapping.png

@@ -1,0 +1,106 @@
+﻿Downstairs Motion Capture Protocol
+1. Motion Name
+Downstairs
+2. Objective
+This protocol is intended to standardize the stair-descent behavior of participants during motion capture in order to ensure consistency, repeatability, and reliability of the collected data.
+This motion is primarily used to record kinematic characteristics and related physiological signals during natural stair descent.
+3. Applicable Subjects
+This protocol is applicable to participants who have basic independent mobility and are able to safely perform stair descent.
+Individuals with acute musculoskeletal injuries, significant fatigue, balance impairment, cardiovascular discomfort, fear of stair descent, or any other condition unsuitable for physical activity should not participate in this motion capture task.
+4. Environment and Equipment Requirements
+(1) The stairway used for capture shall be stable, non-slip, unobstructed, and provide sufficient safe space for movement.
+(2) The dimensions of the stairway shall remain consistent throughout the capture session, and the landing or platform area shall be clearly defined and free from hazards.
+(3) If wearable sensors are used, they shall be positioned correctly, securely attached, and free from noticeable looseness or displacement.
+(4) Participants shall wear appropriate sportswear and athletic shoes. Loose clothing that may interfere with movement, obscure markers, or increase the risk of tripping should be avoided.
+(5) A stable handrail shall be available and safely accessible to the participant when necessary.
+(6) Protective escort measures shall be provided during platform transitions and upon reaching the destination to reduce safety risks.
+5. Motion Definition
+The participant descends stairs using a natural walking gait in a continuous and coordinated manner. During the motion, the participant shall maintain stable posture, controlled lower-limb movement, and smooth downward progression.
+The forefoot shall contact the step first in a natural manner during landing. Use of the handrail is permissible when necessary for stability or safety, but excessive reliance on upper-limb support should be avoided. 
+Obvious hesitation, rushing, jumping, skipping steps, sudden stopping, or distorted movement patterns should be avoided.
+6. Motion Execution Requirements
+(1) Starting Posture
+   ●The participant stands at the designated starting position in a natural upright posture facing downward along the stair path.
+   ●The head remains stable, with the gaze directed toward the stair path ahead.
+   ●The shoulders remain relaxed, and the trunk is kept in a neutral or slightly forward-inclined position.
+   ●The arms are naturally positioned at the sides; if necessary, one hand may be placed lightly on the handrail.
+   ●The feet are placed naturally, approximately hip-width apart.
+(2) Motion Procedure
+   ●Upon instruction, the participant begins descending the stairs and reaches a stable stepping rhythm as soon as possible.
+   ●During stair descent, the participant shall maintain a natural and coordinated gait without deliberately exaggerating the movement.
+   ●The participant shall step down one step at a time unless otherwise specified by the experimental design.
+   ●During landing on each lower step, the forefoot shall contact the step first in a smooth and controlled manner.
+   ●The trunk shall remain stable, and excessive forward leaning, backward leaning, or side-to-side sway should be avoided.
+   ●The stepping rhythm shall remain stable throughout the capture period.
+   ●If necessary for stability or safety, the participant may lightly use the handrail, but pulling heavily on the handrail or relying primarily on upper-limb support should be avoided.
+   ●The participant shall continue moving smoothly during platform transitions and when reaching the destination under the guidance or protection of the researcher when required.
+(3) Quantitative Control Indicators
+   ●Gait pattern: natural stair descent
+   ●Step pattern: one step at a time
+   ●Foot contact: forefoot contacts the step first
+   ●Handrail use: permitted when necessary for support
+   ●Posture: natural, stable, and coordinated during descent
+   ●Movement continuity: smooth and continuous, without hesitation or abrupt stopping
+7. Capture Procedure
+(1) Preparation Phase   
+   ●Explain the motion requirements and precautions to the participant.
+   ●Check the operating status of all equipment and the placement of wearable sensors.
+   ●Inspect the stairway, handrail, and surrounding environment for safety.
+   ●Ensure that the participant completes the necessary warm-up.
+(2) Preliminary Phase   
+   ●The participant first performs a short trial descent at a comfortable rhythm.
+   ●Adjust the motion until the required movement pattern is reached.
+   ●Begin formal capture only after the movement pattern is stable.
+(3) Main Experiment Phase
+    ●The researcher gives the start instruction.
+   ●The participant performs stair descent in accordance with this protocol.
+   ●During the capture, the researcher monitors whether the motion conforms to the required standard.
+   ●Protective escort shall be provided as needed during platform transitions and upon reaching the destination.
+(4) Termination Phase
+   ●At the end of the scheduled capture, the researcher gives the stop instruction or confirms completion of the descent task.
+   ●The participant comes to a stable standing posture at the designated end position.
+   ●The researcher checks data quality and records any abnormal events or deviations.
+8. Criteria for a Valid Trial
+A downstairs trial may be considered valid if all of the following conditions are met:
+   ●The stair-descent posture is natural and coordinated, with no obvious stiffness or tension.
+   ●The participant descends using a natural walking gait and one-step-at-a-time pattern.
+   ●The forefoot contacts the step first in a smooth and controlled manner during landing.
+   ●Handrail use, if present, is limited to necessary support and does not dominate the movement.
+   ●The movement remains continuous throughout the trial, with no clear pauses, distortions, jumping, or extraneous actions.
+   ●No obvious loss of balance, stumbling, slipping, or unsafe event occurs during descent.
+9. Common Incorrect Patterns
+The following conditions shall be regarded as motion deviations and may require re-capture:
+   ●Landing with an obviously inappropriate foot-contact pattern inconsistent with forefoot-first contact.
+   ●Jumping down, rushing, or skipping steps during descent.
+   ●Excessive reliance on the handrail, including pulling the body downward or strongly supporting body weight with the upper limbs.
+   ●Obvious hesitation, stopping, or abrupt changes in rhythm during descent.
+   ●Excessive forward leaning, backward leaning, or side-to-side body sway.
+   ●Foot placement that is unstable, incomplete, or likely to increase the risk of slipping.
+   ●A lowered head or frequent left-right head movement that affects body stability.
+   ●Any near-fall, stumble, or unsafe behavior during the task.
+10. Precautions
+(1) Participant Precautions
+   ●A basic warm-up shall be completed before capture, with particular attention to the ankles, knees, hips, and lower-leg muscles.
+   ●Natural breathing shall be maintained throughout the motion; breath-holding should be avoided.
+   ●Participants shall not adopt an obviously artificial stair-descent style merely to match the protocol.
+   ●If any discomfort occurs, the participant shall immediately notify the researcher and stop the experiment.
+(2) Researcher Precautions
+   ●The motion standard shall be explained uniformly before capture, and demonstration may be provided if necessary.
+   ●The safety of the stairway, platform areas, and handrail shall be confirmed before each trial.
+   ●Protective escort services shall be provided during platform changes and upon reaching the destination.
+   ●All participants should complete the task under the same or similar conditions.
+   ●Any abnormal event during capture, such as sensor looseness, unstable stepping rhythm, or motion deviation, shall be recorded.
+11. Termination Criteria
+The capture shall be terminated immediately if any of the following occurs:
+   ●The participant reports dizziness, chest discomfort, shortness of breath, pain, or other obvious physical discomfort.
+   ●The participant shows clear gait instability, stumbling, slipping, or risk of falling.
+   ●Equipment failure or sensor detachment prevents valid data collection.
+   ●The stair environment becomes unsafe for continued capture.
+   ●The researcher determines that continuing the trial may pose a safety risk.
+12. Data Quality Control Recommendations
+   ●One trial capture is recommended before formal recording to verify motion compliance, environmental safety, and equipment stability.
+   ●Capture duration, stair dimensions, handrail use, and abnormal events shall be documented for each trial.
+   ●Data segments that clearly deviate from protocol requirements should be labeled and, if necessary, excluded or re-collected.
+ 13. Figure Description
+ Figure file:  ./Downstairs.png
+Figure file: ./Downstairs.png

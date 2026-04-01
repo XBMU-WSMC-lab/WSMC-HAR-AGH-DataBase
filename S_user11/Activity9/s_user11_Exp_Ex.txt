@@ -1,0 +1,105 @@
+﻿Sweeping Motion Capture Protocol
+1. Motion Name
+Sweeping
+2. Objective
+This protocol is intended to standardize the sweeping behavior of participants during motion capture in order to ensure consistency, repeatability, and reliability of the collected data.
+This motion is primarily used to record upper-limb, trunk, and whole-body movement characteristics and related physiological signals during controlled sweeping activity.
+3. Applicable Subjects
+This protocol is applicable to participants who are able to independently stand and safely perform repetitive sweeping movements.
+Individuals with acute musculoskeletal injuries, severe pain in the shoulder, elbow, wrist, lower back, or lower limbs, significant fatigue, balance impairment, cardiovascular discomfort, or any other condition unsuitable for standing repetitive arm movement should not participate in this motion capture task.
+4. Environment and Equipment Requirements
+(1) The capture area shall be flat, stable, non-slip, unobstructed, and large enough to allow safe sweeping motion.
+(2) A broom or sweeping tool appropriate to the experimental design shall be prepared in advance.
+(3) If wearable sensors or markers are used, they shall be positioned correctly, securely attached, and free from noticeable looseness or displacement.
+(4) Participants shall wear appropriate clothing and footwear that do not restrict motion or obscure markers.
+(5) A visible or marked sweeping range may be provided if needed to help maintain the required sweeping path length.
+5. Motion Definition
+The participant performs sweeping in an upright standing posture while holding a broom with one or both hands positioned in front of the body. A repeated back-and-forth sweeping motion is performed. 
+he sweeping path shall measure approximately 0.8–.0 meters. During the movement, shoulder joint abduction and adduction shall be maintained within approximately 20–0 degrees, and trunk rotation shall be restricted to less than 15 degrees. 
+The motion shall remain natural, controlled, stable, and continuous throughout the capture period. Excessive trunk twisting, exaggerated upper-limb movement, unstable stance, or irregular sweeping rhythm should be avoided.
+6. Motion Execution Requirements
+(1) Starting Posture
+   ●The participant stands at the designated starting position in a natural upright posture.
+   ●The head remains stable, with the gaze directed forward or toward the sweeping area as required by the experimental design.
+   ●The shoulders remain relaxed, and the trunk is kept upright and stable.
+   ●The participant holds the broom with one or both hands in front of the body.
+   ●The feet are placed naturally in a stable standing position.
+   ●The body shall be positioned so that the sweeping movement can be completed without unnecessary stepping or excessive trunk rotation.
+(2) Motion Procedure
+   ●Upon instruction, the participant begins the sweeping movement in a controlled manner.
+   ●The broom is moved back and forth in front of the body along a sweeping path of approximately 0.8–.0 meters.
+   ●The participant maintains an upright stance throughout the sweeping task.
+   ●Shoulder joint abduction and adduction shall remain within approximately 20–0 degrees.
+   ●Trunk rotation shall be restricted to less than 15 degrees throughout the movement.
+   ●The sweeping rhythm shall remain natural, stable, and continuous.
+   ●Unnecessary stepping, abrupt upper-limb movement, excessive trunk twisting, or exaggerated body sway should be avoided.
+(3) Quantitative Control Indicators
+   ●Body posture: upright standing posture
+   ●Hand/tool position: broom held in front of the body with one or both hands
+   ●Sweeping pattern: repeated back-and-forth motion
+   ●Sweeping path: approximately 0.8–.0 meters
+   ●Shoulder motion: abduction/adduction within approximately 20–0 degrees
+   ●Trunk rotation: less than 15 degrees
+   ●Movement quality: natural, controlled, stable, and continuous
+7. Capture Procedure
+(1) Preparation Phase
+   ●Explain the motion requirements and precautions to the participant.
+   ●Check the operating status of all equipment and the placement of wearable sensors or markers.
+   ●Inspect the broom, capture area, and surrounding environment for safety and suitability.
+   ●If necessary, mark the approximate sweeping path range in advance. 
+(2) Preliminary Phase
+   ●The participant first performs a short trial of sweeping at a comfortable pace.
+   ●Adjust the motion until the required stance, sweeping path, shoulder motion range, and trunk stability are achieved.
+   ●Begin formal capture only after the movement pattern is stable.
+(3) Main Experiment Phase
+   ●The researcher gives the start instruction.
+   ●The participant performs sweeping in accordance with this protocol.
+   ●During the capture, the researcher monitors whether the motion conforms to the required standard.
+   ●If necessary, the researcher provides immediate reminder or safety supervision.
+(4) Termination Phase
+   ●At the end of the scheduled capture, the researcher gives the stop instruction.
+   ●The participant returns to a stable natural standing posture.
+   ●The researcher checks data quality and records any abnormal events or deviations.
+8. Criteria for a Valid Trial
+A sweeping trial may be considered valid if all of the following conditions are met:
+   ●The participant maintains an upright standing posture throughout the task.
+   ●The broom is held in front of the body with one or both hands.
+   ●The sweeping motion is performed in a repeated back-and-forth manner.
+   ●The sweeping path is approximately 0.8–.0 meters.
+   ●Shoulder joint abduction and adduction remain within approximately 20–0 degrees.
+   ●Trunk rotation remains less than 15 degrees.
+   ●The movement is natural, controlled, continuous, and free of obvious instability or compensation.
+9. Common Incorrect Patterns
+The following conditions shall be regarded as motion deviations and may require re-capture:
+   ●The participant does not maintain an upright standing posture.
+   ●The broom is not positioned in front of the body during sweeping.
+   ●The sweeping motion is not performed in a clear back-and-forth pattern.
+   ●The sweeping path is clearly shorter than 0.8 meters or longer than 1.0 meter.
+   ●Shoulder abduction/adduction is clearly outside the approximate 20–0 degree range.
+   ●Trunk rotation reaches or exceeds 15 degrees.
+   ●The participant uses excessive stepping, body sway, or trunk twisting to complete the movement.
+   ●The motion rhythm is irregular, abrupt, or poorly controlled.
+   ●Any loss of balance or unsafe behavior occurs during the task.
+10. Precautions
+(1) Participant Precautions
+   ●A basic warm-up shall be completed before capture, especially for the shoulders, elbows, wrists, trunk, and lower limbs.
+   ●Natural breathing shall be maintained throughout the motion; breath-holding should be avoided.
+   ●Participants shall not deliberately exaggerate arm swing, trunk rotation, or sweeping range merely to match the protocol.
+   ●If any discomfort occurs, especially in the shoulder, wrist, lower back, or lower limbs, the participant shall immediately notify the researcher and stop the experiment.
+(2) Researcher Precautions
+   ●The motion standard shall be explained uniformly before capture, and demonstration may be provided if necessary.
+   ●The safety of the capture area and the suitability of the broom shall be confirmed before each trial.
+   ●All participants should complete the task under the same or similar environmental conditions.
+   ●Any abnormal event during capture, such as sensor looseness, unstable stance, excessive trunk rotation, or incorrect sweeping range, shall be recorded.
+11. Termination Criteria
+The capture shall be terminated immediately if any of the following occurs:
+   ●The participant reports pain, dizziness, fatigue, or other obvious physical discomfort.
+   ●The participant shows clear balance instability or inability to continue the task safely.
+   ●Equipment failure or sensor detachment prevents valid data collection.
+   ●The researcher determines that continuing the trial may pose a safety risk.
+12. Data Quality Control Recommendations
+   ●One trial capture is recommended before formal recording to verify motion compliance, environmental safety, and equipment stability.
+   ●Capture duration, sweeping path length, shoulder motion range, trunk rotation, hand usage pattern, and abnormal events shall be documented for each trial.
+   ●Data segments that clearly deviate from protocol requirements should be labeled and, if necessary, excluded or re-collected.
+13. Figure Description
+Figure file: ./Sweeping.png

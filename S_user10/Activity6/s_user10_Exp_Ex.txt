@@ -1,0 +1,105 @@
+﻿Skipping Motion Capture Protocol
+1. Motion Name
+Skipping
+2. Objective
+This protocol is intended to standardize the skipping behavior of participants during motion capture in order to ensure consistency, repeatability, and reliability of the collected data.
+This motion is primarily used to record whole-body kinematic characteristics and related physiological signals during rhythmic jumping and coordinated upper-limb rope-swinging movement.
+3. Applicable Subjects
+This protocol is applicable to participants who have basic independent standing and jumping ability and are able to safely perform repeated rope-skipping movements.
+Individuals with acute musculoskeletal injuries, significant fatigue, balance impairment, severe ankle, knee, or hip discomfort, cardiovascular discomfort, or any other condition unsuitable for physical activity should not participate in this motion capture task.
+4. Environment and Equipment Requirements
+(1) The capture area shall be flat, stable, non-slip, unobstructed, and provide sufficient vertical and horizontal space for rope movement and jumping.
+(2) The skipping rope shall be of appropriate length for the participant and shall be checked before capture to ensure normal use without damage or knotting.
+(3) If wearable sensors or markers are used, they shall be positioned correctly, securely attached, and free from noticeable looseness or displacement.
+(4) Participants shall wear appropriate sportswear and athletic shoes. Loose clothing that may interfere with rope movement, obscure markers, or increase the risk of tripping should be avoided.
+(5) If necessary, protective supervision shall be provided during the task to reduce safety risks.
+5. Motion Definition
+The participant performs skipping by executing repeated jumps while swinging the rope in a continuous and coordinated manner. The jump may be performed with both feet together or in an alternating-foot sequence, according to the experimental design. 
+During rope swinging, the rope shall be elevated primarily through precise wrist articulation with minimal forearm exertion. The jump height shall generally be maintained within the range of 5–0 cm. 
+The overall motion shall remain natural, rhythmic, stable, and continuous. Obvious excessive arm swinging, exaggerated trunk movement, unusually high jumps, hesitation, sudden stopping, or distorted movement patterns should be avoided.
+6. Motion Execution Requirements
+(1) Starting Posture
+   ●The participant stands at the designated starting position in a natural upright posture.
+   ●The head remains stable, with the gaze directed forward.
+   ●The shoulders remain relaxed, and the trunk is kept in a neutral position.
+   ●The elbows are positioned close to the body with slight flexion.
+   ●The hands hold the rope handles naturally, with the rope positioned appropriately behind or around the feet in preparation for skipping.
+   ●The feet are placed naturally, approximately hip-width apart or in a suitable starting stance according to the skipping mode.
+(2) Motion Procedure
+   ●Upon instruction, the participant begins skipping and reaches a stable movement rhythm as soon as possible.
+   ●The rope shall be swung continuously in coordination with the jumping motion.
+   ●The rope shall be elevated primarily through wrist articulation, while excessive forearm swinging should be avoided.
+   ●The participant may jump with both feet together or in an alternating-foot sequence, according to the experimental design.
+   ●The jump height shall generally be maintained within the range of 5–0 cm.
+   ●The participant shall land in a controlled and stable manner and continue the next cycle smoothly.
+   ●The trunk shall remain stable, and excessive forward leaning, backward leaning, or side-to-side sway should be avoided.
+   ●The movement shall remain natural, rhythmic, and continuous throughout the capture period.
+(3) Quantitative Control Indicators
+   ●Body posture: upright standing
+   ●Jump mode: both-feet jump or alternating-foot jump, according to experimental design
+   ●Rope swing pattern: driven primarily by wrist articulation
+   ●Forearm involvement: minimal excessive exertion
+   ●Jump height: 5–0 cm
+   ●Movement quality: natural, rhythmic, stable, and continuous      
+7. Capture Procedure   
+(1) Preparation Phase
+   ●Explain the motion requirements and precautions to the participant.
+   ●Check the operating status of all equipment and the placement of wearable sensors or markers.
+   ●Inspect the skipping rope, capture area, and surrounding environment for safety.
+   ●Ensure that the participant completes the necessary warm-up, especially for the ankles, knees, hips, shoulders, elbows, and wrists.
+(2) Preliminary Phase
+   ●The participant first performs a short trial of skipping at a comfortable rhythm.
+   ●Adjust the motion until the required jump pattern, rope-swing pattern, and jump height are reached.
+   ●Begin formal capture only after the movement pattern is stable.
+(3) Main Experiment Phase
+   ●The researcher gives the start instruction.
+   ●The participant performs skipping in accordance with this protocol.
+   ●During the capture, the researcher monitors whether the motion conforms to the required standard.
+   ●If necessary, the researcher provides immediate reminder or safety supervision.
+(4) Termination Phase
+   ●At the end of the scheduled capture, the researcher gives the stop instruction.
+   ●The participant returns to a stable natural standing posture.
+   ●The researcher checks data quality and records any abnormal events or deviations.
+8. Criteria for a Valid Trial
+A skipping trial may be considered valid if all of the following conditions are met:
+   ●The participant maintains an upright and stable posture throughout the trial.
+   ●The rope is swung continuously and in coordination with the jumping motion.
+   ●The rope swing is performed primarily through wrist articulation, without obvious excessive forearm exertion.
+   ●The jump pattern conforms to the experimental design.
+   ●The jump height is generally maintained within the range of 5–0 cm.
+   ●The movement is rhythmic, continuous, and coordinated, without obvious interruption or distortion.
+   ●No obvious rope entanglement, loss of balance, stumbling, or unsafe event occurs during the task.
+9. Common Incorrect Patterns
+The following conditions shall be regarded as motion deviations and may require re-capture:
+   ●The rope swing is driven mainly by large forearm movement rather than wrist articulation.
+   ●The jump height is clearly lower than 5 cm or higher than 10 cm for a sustained period.
+   ●The participant performs an incorrect jump mode inconsistent with the experimental design.
+   ●The trunk shows excessive forward leaning, backward leaning, rotation, or side-to-side sway.
+   ●The movement rhythm is unstable, with obvious hesitation, pausing, or abrupt changes in speed.
+   ●The rope frequently strikes the ground improperly, catches the feet, or becomes tangled.
+   ●The landing is unstable, noisy, or poorly controlled.
+   ●Any loss of balance or unsafe behavior occurs during the task.
+10. Precautions
+(1) Participant Precautions
+   ●A basic warm-up shall be completed before capture, with particular attention to the ankles, knees, hips, shoulders, elbows, and wrists.
+   ●Natural breathing shall be maintained throughout the motion; breath-holding should be avoided.
+   ●Participants shall not deliberately increase jump height or exaggerate rope-swinging amplitude merely to match the protocol.
+   ●If any discomfort occurs, especially in the ankle, knee, hip, shoulder, or wrist, the participant shall immediately notify the researcher and stop the experiment.
+(2) Researcher Precautions
+   ●The motion standard shall be explained uniformly before capture, and demonstration may be provided if necessary.
+   ●The safety of the capture area, rope condition, and equipment stability shall be confirmed before each trial.
+   ●All participants should complete the task under the same or similar conditions.
+   ●Any abnormal event during capture, such as sensor looseness, unstable rhythm, rope entanglement, or motion deviation, shall be recorded.
+11. Termination Criteria
+The capture shall be terminated immediately if any of the following occurs:
+   ●The participant reports pain, dizziness, shortness of breath, fatigue, or other obvious physical discomfort.
+   ●The participant shows clear balance instability, repeated stumbling, or inability to continue the task safely.
+   ●Equipment failure or sensor detachment prevents valid data collection.
+   ●The rope or environment becomes unsafe for continued capture.
+   ●The researcher determines that continuing the trial may pose a safety risk.
+12. Data Quality Control Recommendations
+   ●One trial capture is recommended before formal recording to verify motion compliance, environmental safety, rope suitability, and equipment stability.
+   ●Capture duration, jump mode, jump height, rope-swing pattern, and abnormal events shall be documented for each trial.
+   ●Data segments that clearly deviate from protocol requirements should be labeled and, if necessary, excluded or re-collected.
+13. Figure Description
+Figure file: ./Skipping.png
