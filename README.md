@@ -40,11 +40,13 @@ The dataset includes the following 10 activities:
 <pre>
 WSMC-HAR-AGH-Dataset/
 └── s_user[1-15]/                # Subject ID
-    ├── Exp/                    # Main experiment phase
-    │   ├── Activity[1-10]/     # Activity folders
-    │   │   ├── s_user1_Exp_1_IMU.txt   # Inertial & physiological data
-    │   │   └── s_user1_Exp_1_EX.txt    # Explanatory metadata
-    └── Four-Fusion Scheme                   
+│   ├── Exp/                    # Main experiment phase
+│      ├── Activity[1-10]/     # Activity folders
+│      ├── s_user1_Exp_1_IMU.txt   # Inertial & physiological data
+│      ├── s_user1_Exp_1_IMU.txt   # Inertial & physiological data
+│      ├── s_user1_Exp_1_IMU.txt   # Inertial & physiological data
+│      │   └── s_user1_Exp_1_EX.txt    # Explanatory metadata
+└── Four-Fusion Scheme                   
 </pre>
 
 
