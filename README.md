@@ -45,10 +45,10 @@ WSMC-HAR-AGH-Dataset/
     │   │   └── s_user1_Exp_1_EX.txt   # Explanatory metadata
     └── Pre/                    # Preliminary Phase
 
-## 6. Data Availability Statement
+##  6. Data Availability Statement
 Public Dataset: The anonymized inertial sensor data (Accelerometer and Gyroscope) for all 15 subjects is publicly available via the [(https://github.com/XBMU-WSMC-lab/WSMC-HAR-AGH-DataBase)].
 Restricted Data: Raw physiological signals (MAX30102 red/IR channels) and participant-related images used for verification are available upon reasonable request from the corresponding author, subject to a Data Use Agreement (DUA).
 
-## 7. License & Citation
+##  7. License & Citation
 License
 This dataset is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
