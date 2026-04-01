@@ -1,4 +1,4 @@
-# The WSMC-HAR-AGH Dataset: Multimodal Wearable Sensor Data for Human Activity Recognition
+# The WSMC-HAR-AGH Dataset: Multimodal wearable sensor data for fuman activity recognition
 
 ## 1. Overview
 The **WSMC-HAR-AGH** database is a multimodal dataset designed for Human Activity Recognition (HAR). It contains synchronized inertial motion data and physiological signals collected from 15 participants using a custom **Arm-Wearable Equipment (AWE)** device. 
