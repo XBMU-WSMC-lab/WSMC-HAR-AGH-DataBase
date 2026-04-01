@@ -44,7 +44,7 @@ WSMC-HAR-AGH-Dataset/
     │   ├── Activity[1-10]/     # Activity folders
     │   │   ├── s_user1_Exp_1_IMU.txt   # Inertial & physiological data
     │   │   └── s_user1_Exp_1_EX.txt    # Explanatory metadata
-    └── Pre/                    # Preliminary phase
+    └── Four-Fusion Scheme                   
 </pre>
 
 
