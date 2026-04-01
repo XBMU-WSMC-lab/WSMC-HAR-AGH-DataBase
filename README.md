@@ -36,14 +36,17 @@ The dataset includes the following 10 activities:
 - **Fitness (FRA):** Jogging, Running, Skipping, Squatting.
 
 ## 5. File Structure
-```text
+
+<pre>
 WSMC-HAR-AGH-Dataset/
-└── s_user[1-15]/               # Subject ID
-    ├── Exp/                    # Main Experiment Phase
-    │   ├── Activity[1-10]/     # Specific activity folder
-    │   │   ├── s_user1_Exp_1_IMU.txt  # Inertial & Physiological data
-    │   │   └── s_user1_Exp_1_EX.txt   # Explanatory metadata
-    └── Pre/                    # Preliminary Phase
+└── s_user[1-15]/                # Subject ID
+    ├── Exp/                    # Main experiment phase
+    │   ├── Activity[1-10]/     # Activity folders
+    │   │   ├── s_user1_Exp_1_IMU.txt   # Inertial & physiological data
+    │   │   └── s_user1_Exp_1_EX.txt    # Explanatory metadata
+    └── Pre/                    # Preliminary phase
+</pre>
+
 
 ## 6. Data Availability
 The dataset is categorized into two subsets based on privacy requirements:
