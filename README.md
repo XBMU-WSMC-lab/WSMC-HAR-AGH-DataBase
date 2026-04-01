@@ -16,7 +16,7 @@ The **WSMC-HAR-AGH** database is a multimodal dataset designed for Human Activit
 The dataset is provided in space-separated text files (`.txt`). Each line represents a single timestamped observation.
 
 ### 3.1 Data Instance Example
-`1 11906 14382 -2744 -66 -1367 34 108628 109862 Claping 2025-03-29 10:05:00`
+`1 11906 14382 -2744 -66 -1367 34 xxxxx xxxxx Claping 2025-03-29 10:05:00`
 
 ### 3.2 Column Definitions
 | Column | Field | Description |
